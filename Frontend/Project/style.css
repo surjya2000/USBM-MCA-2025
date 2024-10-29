@@ -1,0 +1,11 @@
+#blink-text {
+	font-size: 40px;
+    
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(73, 174, 217);
+    padding: 10px;
+    background-color:bisque
+  }
