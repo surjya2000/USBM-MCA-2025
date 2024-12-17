@@ -74,14 +74,14 @@
 // months.splice(2,1,'feb')
 // console.log(months);
 
-const array1=['a','b','c']
-const arr2=[1,2,3,4,5]
-for(let i=0;i<arr2.length;i++){
-    const doubled=arr2[i]*2;
-    arr2[i]=doubled
-}
-foreach()
-arr2.foreach
+// const array1=['a','b','c']
+// const arr2=[1,2,3,4,5]
+// for(let i=0;i<arr2.length;i++){
+//     const doubled=arr2[i]*2;
+//     arr2[i]=doubled
+// }
+// foreach()
+// arr2.foreach
  
 
 
